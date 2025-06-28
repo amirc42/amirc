@@ -1,4 +1,3 @@
-# Projects completed
 ---
 layout: archive
 title: "Projects"

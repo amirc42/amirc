@@ -2,3 +2,17 @@ title: Amir Crutchfield
 #logo:
 #description: text below image
 theme: jekyll-theme-minimal
+author:
+  # Biographic information
+  avatar           : " "
+  name             : "Amir Crutchfield"
+  pronouns         : "he/him"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Hampton University"
+  email            : "amircrutchfield42@gmail.com" 
+
+ 
+  github           : "academicpages"
+  linkedin         : "amir"
+  
